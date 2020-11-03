@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	ddcd08b97341456087afbef8cf870c09a1603868343
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.killerlaunch.com	TRUE	/	FALSE	1999999999	__cfduid	dab00ce4337ef733e237bf6b64519dfca1603868358
+killerlaunch.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+killerlaunch.com	TRUE	/	FALSE	1999999999	_internships_session	pBkpGOnAx%2FBXDJ%2F9U475dzudFEKq33w0WlVXqaj5VhgmR6iZCRwQPkIRqfgKj3iOAeXrreXmuxD93dVeAs%2BLYzFEOzWFHjoLEsebOTmfquGLH6gVA08fRZBL8k78GST4mA5UAkqKZP%2FizJ39ZR8%3D--%2F6F3lIip7HOYxJeV--kGHLdPXEPwf4JQZAVEy3mw%3D%3D
+
